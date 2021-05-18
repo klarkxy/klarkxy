@@ -1,4 +1,4 @@
-### Hi there 👋
+![klarkxy's github stats](https://github-readme-stats.vercel.app/api?username=klarkxy&show_icons=true&theme=buefy&count_private=true)  
 
 <!--
 **klarkxy/klarkxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
