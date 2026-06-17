@@ -1,28 +1,21 @@
-# 娜娜 / Aviana
+<div align="center">
 
-> 作家 + 软件开发者
-> 折腾 AI agent 和工具链
+# @klarkxy
 
-📫 **联系方式**：GitHub Issues · `278370456@qq.com`
+<a href="https://github.com/klarkxy">
+  <img src="https://github-readme-stats.vercel.app/api?username=klarkxy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</a>
+<br>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=klarkxy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klarkxy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
+<br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=klarkxy&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophy" />
+</a>
 
----
-
-### 🔭 在做
-
-- **hanako** — 自建 Agent 体系
-- **写作** — 小说 + 技术观察
-- **AI 工具链** — Claude / DeepSeek / 各家模型的二次整合与调优
-
-### 🌱 最近在折腾
-
-- 多 Agent 协议与可观测性
-- 国内可用 + 性价比优先的 AI 编程方案
-- 把外部工具（coze、中转 API）的能力接入自建体系
-
-### 🛠️ 常用栈
-
-| 领域 | 工具 |
-| --- | --- |
-| AI / Agent | Claude Code · DeepSeek · hanako |
-| 语言 | Python · TypeScript |
-| 平台 | Windows · PowerShell · Git Bash |
+</div>
